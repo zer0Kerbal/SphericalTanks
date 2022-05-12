@@ -7,17 +7,17 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Fuselage (DMF)
+DaMichel's Spherical Tanks (DST)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Fuselage (DMF)
+# DaMichel's Spherical Tanks (DST)
 
 [Home](./index.md)
 
-This part add-on adds two (2) electric charge producing parts
+Have you ever needed a set of spherical tanks of various capacities, to use for a refueling depot? an interplanetary mothership? A resource extraction base? Have you ever wanted a different tank options? DaMichel's Spherical Tanks might just be for you. For Kerbal Space Program.
 
 ## Installation Instructions
 
@@ -30,22 +30,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the DaMichel folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/DaMichel/Fuselage`
+  * Delete `<KSP_ROOT>/GameData/DaMichel/SphericalTanks`
 * Extract the package's `DaMichel` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/DaMichel` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/DaMichel/Fuselage`
+  * you should end up with `<KSP_ROOT>/GameData/DaMichel/SphericalTanks`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/DaMichel/Fuselage`
+  * Delete `<KSP_ROOT>/GameData/DaMichel/SphericalTanks`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/DaMichel/Fuselage`
+  * you should end up with `<KSP_ROOT>/GameData/DaMichel/SphericalTanks`
 
 ## The following file layout must be present after installation
 
@@ -53,7 +53,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [DaMichel]
-      + [Fuselage]
+      + [SphericalTanks]
         + [Agencies]
           ...
         + [Compatibility]
@@ -66,7 +66,7 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
         * changelog.md
         * License.txt
         * readme.htm
-        * FuselageLtd.version
+        * SphericalTanksLtd.version
     ...
   * KSP.log
   ...
