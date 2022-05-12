@@ -19,7 +19,7 @@ DaMichel's Spherical Tanks (DST)
 
 ## Parts Invoice
 
-This part add-on adds two (2) electric charge producing parts
+Have you ever needed a set of spherical tanks of various capacities, to use for a refueling depot? an interplanetary mothership? A resource extraction base? Have you ever wanted a different tank options? DaMichel's Spherical Tanks might just be for you. For Kerbal Space Program.
 
 ---
 
