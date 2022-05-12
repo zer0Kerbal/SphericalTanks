@@ -7,7 +7,7 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
 ---
 
 <!-- Marketing.md v1.0.0.0
-SimpleConstruction! (SCON)
+DaMichel's Spherical Tanks (DST)
 created: 13 Apr 2022
 updated: 
 
