@@ -5,7 +5,7 @@ title: License: CC BY-SA 3.0 Unported
 
 <!--
 CC-BY-SA-3.0.md v1.0.1.0
-DaMichel's Fuselage (DMF)
+DaMichel's Spherical Tanks (DST)
 created: 01 Feb 2022
 updated: 07 Mar 2022
 -->
