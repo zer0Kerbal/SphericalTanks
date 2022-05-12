@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "Code",
-  "labelColor": "darkblue",
-  "message": "<ModuleManager>",
-  "color": "66ccff",
-  "style": "plastic"  
+ "schemaVersion": 1,
+ "label": "Code",
+ "labelColor": "66ccff",
+ "message": "˂˂KSP part.cfg˃˃ ",
+ "color": "darkblue",
+ "style": "plastic"
 }
