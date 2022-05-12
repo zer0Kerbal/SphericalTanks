@@ -7,13 +7,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Fuselage (DMF)
+DaMichel's Spherical Tanks (DST)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Fuselage (DMF)
+# DaMichel's Spherical Tanks (DST)
 
 [Home](./index.md)
 
