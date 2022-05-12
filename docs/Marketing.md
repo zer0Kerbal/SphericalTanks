@@ -1,3 +1,18 @@
+---
+permalink: /Marketing.html
+title: Marketing Images
+description: camera goes *click-click*
+# layout: bare
+tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,Lisias,zedK
+---
+
+<!-- Marketing.md v1.0.0.0
+SimpleConstruction! (SCON)
+created: 13 Apr 2022
+updated: 
+
+based upon work by LisiasT -->
+
 <a href="https://postimg.cc/zHvVqTfm" target="_blank"><img src="https://i.postimg.cc/zHvVqTfm/1-Spherical-Tanks.jpg" alt="1-Spherical-Tanks"/></a> <a href="https://postimg.cc/t7JTZt9w" target="_blank"><img src="https://i.postimg.cc/t7JTZt9w/10-Cargo-Bay.jpg" alt="10-Cargo-Bay"/></a> <a href="https://postimg.cc/njRhSMG3" target="_blank"><img src="https://i.postimg.cc/njRhSMG3/11-Cargo-Bay.jpg" alt="11-Cargo-Bay"/></a> <a href="https://postimg.cc/G4wh5Wvn" target="_blank"><img src="https://i.postimg.cc/G4wh5Wvn/12-Cargo-Bay.jpg" alt="12-Cargo-Bay"/></a><br/><br/>
 <a href="https://postimg.cc/XZnNV922" target="_blank"><img src="https://i.postimg.cc/XZnNV922/13-Cargo-Bay.jpg" alt="13-Cargo-Bay"/></a> <a href="https://postimg.cc/47BYCWsb" target="_blank"><img src="https://i.postimg.cc/47BYCWsb/2-Spherical-Tanks.jpg" alt="2-Spherical-Tanks"/></a> <a href="https://postimg.cc/mhgc3Wyd" target="_blank"><img src="https://i.postimg.cc/mhgc3Wyd/3-Fuselage-Pieces.jpg" alt="3-Fuselage-Pieces"/></a> <a href="https://postimg.cc/4n2YB28X" target="_blank"><img src="https://i.postimg.cc/4n2YB28X/4-Fuselage-Pieces.jpg" alt="4-Fuselage-Pieces"/></a><br/><br/>
 <a href="https://postimg.cc/8Fb5WZJQ" target="_blank"><img src="https://i.postimg.cc/8Fb5WZJQ/5-Fuselage-Pieces.jpg" alt="5-Fuselage-Pieces"/></a> <a href="https://postimg.cc/2b85xnhq" target="_blank"><img src="https://i.postimg.cc/2b85xnhq/6-Fuselage-Pieces.jpg" alt="6-Fuselage-Pieces"/></a> <a href="https://postimg.cc/zV9V1bZM" target="_blank"><img src="https://i.postimg.cc/zV9V1bZM/7-Tanksand-Fuselage-Pieces-Hero.jpg" alt="7-Tanksand-Fuselage-Pieces-Hero"/></a> <a href="https://postimg.cc/FkYsMmPN" target="_blank"><img src="https://i.postimg.cc/FkYsMmPN/7-Tanksand-Fuselage-Pieces-Hero.png" alt="7-Tanksand-Fuselage-Pieces-Hero"/></a><br/><br/>
