@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-DaMichel's Fuselage (DMF)
+DaMichel's Spherical Tanks (DST)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# DaMichel's Fuselage (DMF)
+# DaMichel's Spherical Tanks (DST)
 
 [Home](./index.md)
 
@@ -22,13 +22,14 @@ based upon work by LisiasT -->
 
 * "DaMichel" is trademark of DaMichel
 * "Kichel Space Travel Supplies" is trademark of DaMichel
-* "Aerodynamic RTG" is trademark of DaMichel
-* "Radial Aerodynamic RTG" is trademark of DaMichel
-* "AeroRTG" is trademark of Bezzier
+* "SphericalTanks" is trademark of DaMichel
+* "Spherical Tanks" is trademark of DaMichel
+* "DMTanks" is trademark of Bezzier
 * "Color Curves Company" is trademark of Bezzier
 * "ColorCurves" is trademark of Bezzier
 * "DaMichel Ltd" is trademark of zer0Kerbal
 * "DM/L" is trademark of zer0Kerbal
+* "DM/T" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
