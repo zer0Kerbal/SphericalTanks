@@ -35,7 +35,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts
-* closes #11 - English <us-en.cfg>
+* closes #29 - Asset Updates
 
 ### Localization
 
@@ -147,8 +147,8 @@
 
 * Issues
   * closes #28 - Previous Releases
+  * updates #29 - Asset Updates
   * closes #31 - 1.1.0.1-prerelease
-  * updates #29 - English 
 
 ---
 
@@ -166,24 +166,13 @@
   * <en-us.cfg>
   * translations welcomed through GitHub Push Request
   * updates #10 - Localization - Master
-  * closes #11 - English  <us-en.cfg>
+  * closes #11 - English <us-en.cfg>
   * closes #27 - Part Localization
 
 * updated license to CC BY-SA 4.0
 * file structure and modernization
 * modernized part.cfg
 * many little changes to patches/parts.
-
-### Added
-
-* New Part
-  * DM-RFC
-  * Radial Fuel Cell
-  * air breathing, liquid fuel powered generator
-  * producing 1.5 EC/s
-  * created DM-RFC texture
-* Compatibility patch
-  * On-Demand Fuel Cells (ODFC)
 
 ### Created
 
@@ -200,6 +189,7 @@
 
 * Issues
   * updates #28 - Previous Releases
+  * updates #29 - Asset Updates
   * closes #30 - 1.1.0.0-adoption
 
 ---
