@@ -20,7 +20,7 @@ based upon work by LisiasT -->
 
 [Home](./index.md)
 
-## Trademarks <i class="fa-solid fa-trademark fa-beat-fade fa-2x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
+## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "DaMichel" is trademark of DaMichel
 * "Kichel Space Travel Supplies" is trademark of DaMichel
