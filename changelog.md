@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | DaMichel's Fuselage (DMF)                                         |
-| ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-3.0                                                      |
-| author     | DaMichel, Bezzier and zer0Kerbal                                  |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Fuselage)               |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Fuselage)             |
-| spacedock  | (https://spacedock.info/mod/2340)                                 |
-| ckan       | DMTanks-Fuselage                                                  |
+| modName    | DaMichel's SphericalTanks (DST)                                  |
+| ---------- | ---------------------------------------------------------------- |
+| license    | CC-BY-SA-3.0                                                     |
+| author     | DaMichel, Bezzier and zer0Kerbal                                 |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SphericalTanks)        |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SphericalTanks)      |
+| spacedock  | (https://spacedock.info/mod/2342)                                |
+| ckan       | DMTanks-SphericalTanks                                           |
 
 ## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
@@ -35,7 +35,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts
-* closes #36 - Asset Updates
+* closes #11 - English <us-en.cfg>
 
 ### Localization
 
@@ -45,16 +45,16 @@
   * Localization/
     * [readme.md]
     * [quickstart.md]
-* updates #6 - American English <us-en.cfg>
-* updates #5 - Localization - Master
+* updates #11 - English <us-en.cfg>
+* updates #10 - Localization - Master
 
 ### Status
 
 * Issues
-  * closes #1 - Fuselage (DMF) 1.1.99.0-prerelease `<Split'n'Polish: AeroRadial>`
-  * closes #2 - 1.1.99.0 Verify Legal Mumbo Jumbo
-  * closes #3 - 1.1.99.0 Update Documentation
-  * closes #4 - 1.1.99.0 Social Media
+  * closes #6 - Spherical Tanks (DST) 1.1.99.0-prerelease `<Split'n'Polish: Spherical Tanks>`
+  * closes #7 - 1.1.99.0 Verify Legal Mumbo Jumbo
+  * closes #8 - 1.1.99.0 Update Documentation
+  * closes #9 - 1.1.99.0 Social Media
 
 ---
 
@@ -70,31 +70,85 @@
 * 2020-02-24
 * Released for Kerbal Space Program 1.8.1
 
-* thank you to BenjaminCronin
-  * for pointed out decorative right brace in changelogs
-  * wite-out applied
-* Also dangling VERSION
-  * superglue applied.
-* added
-  * attach node to the back (rear) of the parts
-* updated
-  * the DM-RFC texture.
-* RTG
-  * adjusted
-    * [cost] from 34950 to 20000
-    * [entryCost] from 58000 to 50000
-    * [TechRequired] from experimentalElectrics to largeElectrics
 * removed
   * tags.cfg (redundant patch since tags now in localization)
 * updated product hero shots
 * created SpaceDock header
 
+* Thank you
+  * @Joal ban Kluane
+    * for suggesting improvement in the forum post(s)
+  * @shdwlrd
+    * for pointing out issues in part.cfg's
+    * (s.i.c.)
+  * @Jiraiyah
+    * for pointing at the Karbonite patches.
+    * (s.i.c.)
+  * BenjaminCronin
+    * for pointed out decorative right brace in changelogs
+    * wite-out applied.
+* Also dangling VERSION.
+  * superglued applied.
+
+### Parts
+
+* Changed
+  * [maximum_drag] from 0.25 to 0.2 (stock)
+  * [minimum_drag] from 0.25 to 0.3 (stock)
+  * [maxTemp from 1800] from 1400 to 2000 (stock)
+* Added
+  * missing texture (c125-normalmap_NRM.dds)
+
+### Localization
+
+* Updated
+  * from #DM_sphericaltanks_* to #DST_*
+* Added into localization
+  * new B9TankTypes
+  * new patch
+
+### Compatibility
+
+* Updated
+  * integrated TweakScale module (removed KGEx, added freeScale = True)
+  * [B9TankTypes.cfg]
+    * Add tank definitions
+      * [Karbonite]
+      * [Karborundum]
+        * unitsPerVolume probably need adjustment
+        * currently set to 5
+        * seems there is a 5:1 ratio between LF and K
+  * [B9PartSwitch.cfg]
+    * Karbonite patch
+  * [B9FuelSwitch-Snacks.cfg]
+    * removed extraneous [SNACKS]
+  * [B9FuelSwitch-TAC-LS.cfg]
+    * removed extraneous [TAC]
+* Added
+  * tank patch
+    * [Karborundum]
+      * if B9PartSwitch and Karbonite+ (Karborundum) is installed
+* [USI-Logistics]
+  * to tanks
+  * if USI-Logistics installed.
+  * [B9FuelSwitch-Karborundum.cfg]
+    * [Karborundum]
+      * out of [B9FuelSwitch-Karbonite.cfg]
+      * into its own patch
+
+### Notes
+
+* Volumes between USI, DST, and stock
+  * something is out of whack
+  * Not Sphericaltanks
+  * Appears to be USI-Kontainers holding about 10% more than mathimatically possible
+
 ### Status
 
 * Issues
-  * closes #33 - Previous Releases
-  * closes #35 - 1.1.0.1-prerelease
-  * updates #36 - Asset Updates
+  * closes #28 - Previous Releases
+  * closes #31 - 1.1.0.1-prerelease
+  * updates #29 - English 
 
 ---
 
@@ -111,9 +165,9 @@
 * Added
   * <en-us.cfg>
   * translations welcomed through GitHub Push Request
-  * updates #5 - Localization - Master
-  * closes #7 - American English <us-en.cfg>
-  * closes #32 - Part Localization
+  * updates #10 - Localization - Master
+  * closes #11 - English  <us-en.cfg>
+  * closes #27 - Part Localization
 
 * updated license to CC BY-SA 4.0
 * file structure and modernization
@@ -145,8 +199,8 @@
 ### Status
 
 * Issues
-  * updates #33 - Previous Releases
-  * closes #34 - 1.1.0.0-adoption
+  * updates #28 - Previous Releases
+  * closes #30 - 1.1.0.0-adoption
 
 ---
 
