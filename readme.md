@@ -166,7 +166,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/SphericalTanks/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-* "SphericalTanks Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-* "SphericalTanks Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/SphericalTanks/issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/SphericalTanks/blob/master/LICENSE "Github License"
 [MOD:notic]: https://zer0kerbal.github.io/SphericalTanks/Notices "GitHub Pages"
