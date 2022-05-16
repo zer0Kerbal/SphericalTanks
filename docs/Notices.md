@@ -20,7 +20,7 @@ based upon work by LisiasT -->
 
 [Home](./index.md)
 
-## Trademarks
+## Trademarks <i class="fa-solid fa-trademark"></i>
 
 * "DaMichel" is trademark of DaMichel
 * "Kichel Space Travel Supplies" is trademark of DaMichel
