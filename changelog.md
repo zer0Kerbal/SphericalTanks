@@ -158,12 +158,15 @@
 * Released for Kerbal Space Program 1.8.1
 
 * adopted by zer0Kerbal
-* for Kerbal Space Program (KSP) 1.9 (might work for earlier)
+* for Kerbal Space Program (KSP) 1.9.1 (might work for earlier)
 
 ### Localization
 
-* Added
-  * <en-us.cfg>
+* Add
+  * Localization/
+    * [readme.md]
+    * [quickstart.md]
+    * <en-us.cfg>
   * translations welcomed through GitHub Push Request
   * updates #10 - Localization - Master
   * closes #11 - English <us-en.cfg>
@@ -185,11 +188,27 @@
 * Forum post
 * .json
 
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts
+* updates #29 - Asset Updates
+
 ### Status
 
 * Issues
   * updates #28 - Previous Releases
-  * updates #29 - Asset Updates
   * closes #30 - 1.1.0.0-adoption
 
 ---
