@@ -2,14 +2,13 @@
 permalink: /Localizations.html
 title: Localizations
 description: camera goes *click-click*
-# layout: bare
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Localizations.md v1.1.4.0
+<!-- Localizations.md v1.1.5.0
 DaMichel's Spherical Tanks (DST)
 created: 01 Feb 2022
-updated: 08 Apr 2022 -->
+updated: 13 May 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
