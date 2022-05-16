@@ -42,7 +42,7 @@ Have you ever needed a set of spherical tanks of various capacities, to use for 
 
 [View full album](https://imgur.com/a/rFRN1)
 
-<img src="1-SphericalTanks.jpg" alt="DaMichel's SphericalTanks" width="26%" height="26%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/SpaceplaneAndSphericalTanks.png" alt="DaMichel's SphericalTanks" width="45%" height="45%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/2-SphericalTanks.jpg" alt="DaMichel's SphericalTanks" width="45%" height="45%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/1-SphericalTanks.jpg" alt="DaMichel's SphericalTanks" width="26%" height="26%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/SpaceplaneAndSphericalTanks.png" alt="DaMichel's SphericalTanks" width="45%" height="45%"> <img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/2-SphericalTanks.jpg" alt="DaMichel's SphericalTanks" width="45%" height="45%">
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/HeroLogo_1920x1920.png" alt="Fuselage (DMF)" style="zoom: 33%;" /> 
 
