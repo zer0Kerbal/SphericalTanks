@@ -13,7 +13,7 @@ updated: 30 Apr 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-file-certificate fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
+<i class="fa-solid fa-file-certificate fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
 <!-- <i class="fa-regular fa-file-certificate fa-spin fa-3x" style="color: firebrick"></i> -->
 
