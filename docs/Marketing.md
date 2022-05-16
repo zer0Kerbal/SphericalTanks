@@ -11,12 +11,10 @@ DaMichel's Spherical Tanks (DST)
 created: 13 Apr 2022
 updated: 15 May 2022
 
-
 based upon work by LisiasT -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-explosion fa-spon fa-3x" style="color: firebrick"></i>
-
+<i class="fa fa-gear fa-user-astronaut fa-spon fa-3x" style="color: firebrick"></i><i class="fa-solid fa-explosion"></i>
 
 <a href="https://postimg.cc/zHvVqTfm" target="_blank"><img src="https://i.postimg.cc/zHvVqTfm/1-Spherical-Tanks.jpg" alt="1-Spherical-Tanks"/></a> <a href="https://postimg.cc/t7JTZt9w" target="_blank"><img src="https://i.postimg.cc/t7JTZt9w/10-Cargo-Bay.jpg" alt="10-Cargo-Bay"/></a> <a href="https://postimg.cc/njRhSMG3" target="_blank"><img src="https://i.postimg.cc/njRhSMG3/11-Cargo-Bay.jpg" alt="11-Cargo-Bay"/></a> <a href="https://postimg.cc/G4wh5Wvn" target="_blank"><img src="https://i.postimg.cc/G4wh5Wvn/12-Cargo-Bay.jpg" alt="12-Cargo-Bay"/></a><br/><br/>
 <a href="https://postimg.cc/XZnNV922" target="_blank"><img src="https://i.postimg.cc/XZnNV922/13-Cargo-Bay.jpg" alt="13-Cargo-Bay"/></a> <a href="https://postimg.cc/47BYCWsb" target="_blank"><img src="https://i.postimg.cc/47BYCWsb/2-Spherical-Tanks.jpg" alt="2-Spherical-Tanks"/></a> <a href="https://postimg.cc/mhgc3Wyd" target="_blank"><img src="https://i.postimg.cc/mhgc3Wyd/3-Fuselage-Pieces.jpg" alt="3-Fuselage-Pieces"/></a> <a href="https://postimg.cc/4n2YB28X" target="_blank"><img src="https://i.postimg.cc/4n2YB28X/4-Fuselage-Pieces.jpg" alt="4-Fuselage-Pieces"/></a><br/><br/>
