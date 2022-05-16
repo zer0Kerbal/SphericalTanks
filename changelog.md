@@ -7,7 +7,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 # Changelog  
   
-| modName    | DaMichel's Spherical Tanks (DST)                                  |
+| modName    | DaMichel's SphericalTanks (DST)                                   |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-3.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
@@ -17,7 +17,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 | spacedock  | (https://spacedock.info/mod/2342)                                 |
 | ckan       | DMTanks-SphericalTanks                                            |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
+## Version 2.1.99.0-prerelease - `<Split'n'Polish: SphericalTanks>`
 
 * 09 May 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -58,7 +58,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ### Status
 
 * Issues
-  * closes #6 - Spherical Tanks (DST) 1.1.99.0-prerelease `<Split'n'Polish: Spherical Tanks>`
+  * closes #6 - SphericalTanks (DST) 1.1.99.0-prerelease `<Split'n'Polish: SphericalTanks>`
   * closes #7 - 1.1.99.0 Verify Legal Mumbo Jumbo
   * closes #8 - 1.1.99.0 Update Documentation
   * closes #9 - 1.1.99.0 Social Media
@@ -159,7 +159,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 ---
 
-## Version 1.1.0.0-adoption - `<Fresh Coat of Paint: AeroRadial>`
+## Version 1.1.0.0-adoption - `<Fresh Coat of Paint: SphericalTanks>`
 
 * 2020-02-17
 * Released for Kerbal Space Program 1.8.1
