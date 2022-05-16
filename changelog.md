@@ -1,14 +1,21 @@
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
+
 # Changelog  
   
-| modName    | DaMichel's SphericalTanks (DST)                                  |
-| ---------- | ---------------------------------------------------------------- |
-| license    | CC-BY-SA-3.0                                                     |
-| author     | DaMichel, Bezzier and zer0Kerbal                                 |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SphericalTanks)        |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SphericalTanks)      |
-| spacedock  | (https://spacedock.info/mod/2342)                                |
-| ckan       | DMTanks-SphericalTanks                                           |
+| modName    | DaMichel's Spherical Tanks (DST)                                  |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-SA-3.0                                                      |
+| author     | DaMichel, Bezzier and zer0Kerbal                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/SphericalTanks)         |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/SphericalTanks)       |
+| spacedock  | (https://spacedock.info/mod/2342)                                 |
+| ckan       | DMTanks-SphericalTanks                                            |
 
 ## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
 
