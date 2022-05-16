@@ -72,7 +72,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 ---
 
-### Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
+## Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
 
 * 2020-02-24
 * Released for Kerbal Space Program 1.8.1
@@ -159,7 +159,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 ---
 
-### Version 1.1.0.0-adoption - `<Fresh Coat of Paint: AeroRadial>`
+## Version 1.1.0.0-adoption - `<Fresh Coat of Paint: AeroRadial>`
 
 * 2020-02-17
 * Released for Kerbal Space Program 1.8.1
