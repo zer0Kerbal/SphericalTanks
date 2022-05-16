@@ -64,9 +64,6 @@ Have you ever needed a set of spherical tanks of various capacities, to use for 
 ### Localization
 
 >* ![English][EN] English
->* ![Español][ES] Spanish (Español)
->* ![Français][FR] French (Français)
->* ![Italiano][IT] Italian (Italiano)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
