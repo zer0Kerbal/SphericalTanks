@@ -1,0 +1,57 @@
+// TweakScale.-SphericalTanks.cfg v1.0.0.1
+// DaMichel/SphericalTanks
+// created: 31 Aug 2019
+// updated: 15 Feb 2020
+
+@PART[DM-SphericalTank-125-55]:NEEDS[Tweakscale,KGEx/DaMichel]:FOR[DaMichel]
+{
+	&MODULE[TweakScale]
+	{
+		&type = KGExStack
+		&defaultScale = 1.25
+		&freeScale = True
+	}
+}
+
+@PART[DM-SphericalTank-125-70]:NEEDS[Tweakscale,KGEx/DaMichel]:FOR[DaMichel]
+{
+	&MODULE[TweakScale]
+	{
+		&type = KGExStack
+		&defaultScale = 1.25
+		&freeScale = True
+	}
+}
+
+@PART[DM-SphericalTank-125-88]:NEEDS[Tweakscale,KGEx/DaMichel]:FOR[DaMichel]
+{
+	&MODULE[TweakScale]
+	{
+		&type = KGExStack
+		&defaultScale = 1.25
+		&freeScale = True
+	}
+}
+
+@PART[DM-SphericalTank-125-111]:NEEDS[Tweakscale,KGEx/DaMichel]:FOR[DaMichel]
+{
+	&MODULE[TweakScale]
+	{
+		&type = KGExStack
+		&defaultScale = 1.25
+		&freeScale = True
+	}
+}
+
+@PART[DM-SphericalTank-125-140]:NEEDS[Tweakscale,KGEx/DaMichel]:FOR[DaMichel]
+{
+	&MODULE[TweakScale]
+	{
+		&type = KGExStack
+		&defaultScale = 1.25
+		&freeScale = True
+	}
+}
+
+// CC BY-NC-SA-4.0
+// zer0Kerbal
