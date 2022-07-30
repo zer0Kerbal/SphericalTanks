@@ -1,5 +1,5 @@
 <!-- readme.md v1.6.9.2
-DaMichel's SphericalTanks (DST)
+DaMichel's Spherical Tanks (DST)
 created: 17 Jul 2017
 updated: 05 Jul 2022 -->
 
@@ -11,15 +11,15 @@ updated: 05 Jul 2022 -->
 
 
 
-# DaMichel's SphericalTanks (DST)
+# DaMichel's Spherical Tanks (DST)
 
-SphericalTanks (DST) adds spherical tanks in multiple sizes for Kerbal Space Program.
+Spherical Tanks (DST) adds spherical tanks in multiple sizes for Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [DaMichel][damichel], and then by [Bezzier][bezzier]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/HeroLogo_1920x1920.png" alt="SphericalTanks (DST)" style="zoom: 33%;" /> 
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/HeroLogo_1920x1920.png" alt="Spherical Tanks (DST)" style="zoom: 33%;" /> 
 
 [View full album](https://imgur.com/a/rFRN1)
 
@@ -265,10 +265,10 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 [DAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208118-*/ "DaMichel's AeroRadial (DAR)"
-[DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's SphericalTanks (DST)"
+[DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "DaMichel's Spherical Tanks (DST)"
 [DMF]: https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/ "DaMichel's Fuselage (DMF)"
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
-[DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/ "DaMichel's SphericalTanks (DST)"
+[DST]: https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/ "DaMichel's Spherical Tanks (DST)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells"
 
