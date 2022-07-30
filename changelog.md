@@ -2,7 +2,7 @@
   
 | modName    | DaMichel's Spherical Tanks (DST)                                  |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-3.0                                                      |
+| license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208140-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/SphericalTanks)         |
