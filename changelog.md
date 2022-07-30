@@ -17,9 +17,9 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 | spacedock  | (https://spacedock.info/mod/2342)                                 |
 | ckan       | DMTanks-SphericalTanks                                            |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: SphericalTanks>`
+## Version 1.1.99.0-prerelease - `<Split'n'Polish: SphericalTanks>`
 
-* 09 May 2022  
+* 29 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Add
@@ -63,16 +63,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
   * closes #8 - 1.1.99.0 Update Documentation
   * closes #9 - 1.1.99.0 Social Media
 
----
-
-## Version 1.1.0.2 - for KSP 1.12.3 [22-Mar-2022]
-
-* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
-* #6 - [ImgBot] Optimize images
-
----
-
-## Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
+## Version 1.1.0.1-prerelease - `<Spit'n'Polish>` edition
 
 * 2020-02-24
 * Released for Kerbal Space Program 1.8.1
@@ -156,6 +147,8 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
   * closes #28 - Previous Releases
   * updates #29 - Asset Updates
   * closes #31 - 1.1.0.1-prerelease
+* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
+* #6 - [ImgBot] Optimize images
 
 ---
 
