@@ -1,13 +1,6 @@
----
-permalink: /Changelog.html
-title: The Change Log
-description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
----
-
 # Changelog  
   
-| modName    | DaMichel's Spherical Tanks (DST)                                   |
+| modName    | DaMichel's Spherical Tanks (DST)                                  |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-3.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
@@ -19,7 +12,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 ## Version 1.1.99.0-prerelease - `<Split'n'Polish: SphericalTanks>`
 
-* 09 May 2022  
+* 29 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Add
@@ -65,17 +58,12 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 ---
 
-## Version 1.1.0.2 - for KSP 1.12.3 [22-Mar-2022]
-
-* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
-* #6 - [ImgBot] Optimize images
-
----
-
-## Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
+## Version 1.1.0.1-prerelease - `<Spit'n'Polish>` edition
 
 * 2020-02-24
-* Released for Kerbal Space Program 1.8.1
+* Released for Kerbal Space Program 1.9.1
+
+### Changes
 
 * removed
   * tags.cfg (redundant patch since tags now in localization)
@@ -156,6 +144,8 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
   * closes #28 - Previous Releases
   * updates #29 - Asset Updates
   * closes #31 - 1.1.0.1-prerelease
+* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
+* #6 - [ImgBot] Optimize images
 
 ---
 
