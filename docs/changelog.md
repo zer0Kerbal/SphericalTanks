@@ -5,9 +5,15 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-# Changelog  
+<!-- 
+hdr-changelog.md v1.0.0.0
+Spherical Tanks (DST)
+created: 13 May 2022
+updated:
+CC BY-ND 4.0 by zer0Kerbal
+--># Changelog  
   
-| modName    | DaMichel's Spherical Tanks (DST)                                   |
+| modName    | DaMichel's Spherical Tanks (DST)                                  |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-3.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
@@ -17,65 +23,12 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 | spacedock  | (https://spacedock.info/mod/2342)                                 |
 | ckan       | DMTanks-SphericalTanks                                            |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: SphericalTanks>`
-
-* 09 May 2022  
-* Release for Kerbal Space Program [KSP 1.12.x]
-
-### Add
-
-* Dependency
-  * DaMichel Ltd (agency, flag, common files)
-
-### Asset Updates
-
-* create Assets/ folder
-* convert from mesh to MODEL
-* rename
-  * models to unique names
-  * textures to unique names
-* update
-  * model pointers (.png et al to .dds)
-  * model texture pointers to new names
-* relocate assets to Assets/
-* eliminate
-  * duplicate textures
-  * duplicate models
-* relocate part.cfg to Parts
-* closes #29 - Asset Updates
-
-### Localization
-
-* Update
-  * <us-en.cfg>
-* Add
-  * Localization/
-    * [readme.md]
-    * [quickstart.md]
-* updates #11 - English <us-en.cfg>
-* updates #10 - Localization - Master
-
-### Status
-
-* Issues
-  * closes #6 - Spherical Tanks (DST) 1.1.99.0-prerelease `<Split'n'Polish: SphericalTanks>`
-  * closes #7 - 1.1.99.0 Verify Legal Mumbo Jumbo
-  * closes #8 - 1.1.99.0 Update Documentation
-  * closes #9 - 1.1.99.0 Social Media
-
----
-
-## Version 1.1.0.2 - for KSP 1.12.3 [22-Mar-2022]
-
-* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
-* #6 - [ImgBot] Optimize images
-
----
-
 ## Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
 
 * 2020-02-24
-* Released for Kerbal Space Program 1.8.1
+* Released for Kerbal Space Program 1.9.1
+
+### Changes
 
 * removed
   * tags.cfg (redundant patch since tags now in localization)
@@ -156,6 +109,8 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
   * closes #28 - Previous Releases
   * updates #29 - Asset Updates
   * closes #31 - 1.1.0.1-prerelease
+* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
+* #6 - [ImgBot] Optimize images
 
 ---
 
@@ -259,4 +214,4 @@ Correcting typos
 
 ---
 
-<!-- This File CC BY-ND 4.0 by zer0Kerbal -->
+<!-- This File CC BY-ND 4.0 by zer0Kerbal -->
