@@ -5,8 +5,7 @@ description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!--
-Notices.md v1.0.1.0
+<!-- Notices.md v1.0.1.0
 DaMichel's Spherical Tanks (DST)
 created: 13 Apr 2022
 updated: 15 May 2022
@@ -34,6 +33,7 @@ based upon work by LisiasT -->
 * "DM/T" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
+* KerbSimpleCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
 
 ## DaMichel Ltd
@@ -48,9 +48,9 @@ based upon work by LisiasT -->
 
 * "Color Curves Company" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
-## Kerbal Simple Co (KerbSimCo)
+## Kerbal Simple Co (KerbSimCo) (KerbSimpleCo) (KSC)
 
-* "Kerbal Simple Co (KerbSimCo)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "Kerbal Simple Co (KerbSimCo) (KerbSimpleCo) (KSC)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Space Program
 
