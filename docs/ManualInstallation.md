@@ -2,14 +2,13 @@
 permalink: /ManualInstallation.html
 title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- ManualInstallation.md v1.1.7.0
+<!-- ManualInstallation.md v1.1.8.0
 DaMichel's Spherical Tanks (DST)
 created: 01 Oct 2019
-updated: 18 Apr 2022 -->
+updated: 21 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
@@ -27,9 +26,9 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the DaMichel folder inside your Kerbal Space Program's GameData folder:
+To install, place the `DaMichel` folder inside your Kerbal Space Program's GameData folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/DaMichel/SphericalTanks`
 * Extract the package's `DaMichel` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/DaMichel` --> `<KSP_ROOT>/GameData/`
@@ -38,9 +37,9 @@ To install, place the DaMichel folder inside your Kerbal Space Program's GameDat
 
 ### If Downloaded from SpaceDock / GitHub / other
 
-To install, place the GameData folder inside your Kerbal Space Program folder:
+To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
-* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
+* **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
   * Delete `<KSP_ROOT>/GameData/DaMichel/SphericalTanks`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
@@ -54,19 +53,23 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
   + [GameData]
     + [DaMichel]
       + [SphericalTanks]
-        + [Agencies]
+        + [Assets]
           ...
         + [Compatibility]
           ...
-        + [Flags]
+        + [Config]
           ...
         + [Localization]
           ...
+        + [Parts]
+          ...
         * #.#.#.#.htm
+        * Attributions.htm
+        * CC-BY-SA-4.0.txt
         * changelog.md
-        * License.txt
+        * ManualInstallation.htm
         * readme.htm
-        * SphericalTanksLtd.version
+        * SphericalTanks.version
     ...
   * KSP.log
   ...
