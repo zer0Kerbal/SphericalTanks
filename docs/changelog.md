@@ -7,7 +7,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 # Changelog  
   
-| modName    | DaMichel's SphericalTanks (DST)                                   |
+| modName    | DaMichel's Spherical Tanks (DST)                                   |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-3.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
@@ -58,7 +58,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ### Status
 
 * Issues
-  * closes #6 - SphericalTanks (DST) 1.1.99.0-prerelease `<Split'n'Polish: SphericalTanks>`
+  * closes #6 - Spherical Tanks (DST) 1.1.99.0-prerelease `<Split'n'Polish: SphericalTanks>`
   * closes #7 - 1.1.99.0 Verify Legal Mumbo Jumbo
   * closes #8 - 1.1.99.0 Update Documentation
   * closes #9 - 1.1.99.0 Social Media
