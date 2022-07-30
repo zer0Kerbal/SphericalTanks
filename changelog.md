@@ -13,7 +13,9 @@
 ## Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
 
 * 2020-02-24
-* Released for Kerbal Space Program 1.8.1
+* Released for Kerbal Space Program 1.9.1
+
+### Changes
 
 * removed
   * tags.cfg (redundant patch since tags now in localization)
